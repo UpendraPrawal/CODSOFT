@@ -1,6 +1,4 @@
-Bilkul! Neeche maine ek **customized** aur **sahi structured** `README.md` file banayi hai, jo professional bhi lagegi aur user-friendly bhi:
 
----
 
 # 💻 CodSoft Internship Projects – Python
 
@@ -58,17 +56,6 @@ CODSOFT/
 
 ---
 
----
-
-## 🤝 Let's Connect
-
-Feel free to connect or contribute! For questions or collaborations:
-
 * GitHub: [UpendraPrawal](https://github.com/UpendraPrawal)
 
----
-
-## 📌 Note
-
-All these projects are developed using **Python** and are meant to be simple yet effective examples of core programming concepts.
 
